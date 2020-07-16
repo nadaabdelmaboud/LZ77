@@ -1,0 +1,2 @@
+Add your input in the input.txt file
+choose proper windowsize - searchbuffer for your input
